@@ -1,4 +1,4 @@
-ID_Pelanggan,Jenis_Kelamin,Usia,Pendapatan_Tahunan,Skor_Belanja,Membership,Frekuensi_Pembelian,Kategori_Preferensi
+ID_Pelanggan,Gender,Usia,Pendapatan_Tahunan,Skor_Belanja,Membership,Frekuensi_Pembelian,Kategori_Favorit
 1,Laki-laki,50.0,119185.0,52,Gold,15,Fashion
 2,Perempuan,18.0,38049.0,79,Basic,9,Sembako
 3,Laki-laki,36.0,113116.0,47,Basic,4,Elektronik
